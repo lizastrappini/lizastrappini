@@ -2,7 +2,7 @@
   <h1 align="center">Hi, I'm Liza :wave: </h1>
   <h3 align="center">I'm a sistems engineering student at UTN :computer: :computer_mouse:	 </h3>
 </div>
-I'm a sistems engineering student at UTN :computer:
+
 <br />
 <br />
 <a href="https://linkedin.com/in/liza-strappini-santilli" target="_blank">
