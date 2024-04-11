@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hi, I'm Liza</h1>
+<h1 align="center">Hi, I'm Liza :wave: </h1>
 </div>
-
+I'm a sistems engineering student at UTN :computer:
 <br />
 <br />
 <a href="https://linkedin.com/in/liza-strappini-santilli" target="_blank">
