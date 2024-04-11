@@ -1,5 +1,6 @@
 <div align="center">
-<h1 align="center">Hi, I'm Liza :wave: </h1>
+  <h1 align="center">Hi, I'm Liza :wave: </h1>
+  <h3 align="center">I'm a sistems engineering student at UTN :computer: :computer_mouse:	 </h3>
 </div>
 I'm a sistems engineering student at UTN :computer:
 <br />
